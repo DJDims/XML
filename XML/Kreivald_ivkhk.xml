@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IVKHK>
+    <field fieldName="IT ja Multimeedia">
+        <speciality specialityName="Tarkvaraarendaja">
+            <city cityName="Jõhvi">
+                <group groupName="JPTV20">
+                    <student>
+                        <name>Dmitrii</name>
+                        <surename>Kreivald</surename>
+                        <bornYear>2004</bornYear>
+                    </student>
+                    <student>
+                        <name>Arseni</name>
+                        <surename>Chistyakov</surename>
+                        <bornYear>2004</bornYear>
+                    </student>
+                    <student>
+                        <name>Aleksei</name>
+                        <surename>Karimov</surename>
+                        <bornYear>2004</bornYear>
+                    </student>
+                </group>
+                <group groupName="JPTV21">
+                    <student>
+                        <name>Stefan</name>
+                        <surename>Robalko</surename>
+                        <bornYear>2003</bornYear>
+                    </student>
+                    <student>
+                        <name>Roman</name>
+                        <surename>Kukalev</surename>
+                        <bornYear>2005</bornYear>
+                    </student>
+                    <student>
+                        <name>Nikita</name>
+                        <surename>Chistokletov</surename>
+                        <bornYear>2005</bornYear>
+                    </student>
+                </group>
+            </city>
+            <city cityName="Sillamäe">
+                <group groupName="SPTV20">
+                    <student>
+                        <name>Ivan</name>
+                        <surename>Petchenko</surename>
+                        <bornYear>2004</bornYear>
+                    </student>
+                    <student>
+                        <name>Dmitrii</name>
+                        <surename>Loginov</surename>
+                        <bornYear>2004</bornYear>
+                    </student>
+                    <student>
+                        <name>Aleksei</name>
+                        <surename>Aleksandrov</surename>
+                        <bornYear>2004</bornYear>
+                    </student>
+                </group>
+            </city>
+        </speciality>
+    </field>
+</IVKHK>

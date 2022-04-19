@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<food name="Pizza">
+    <view name="Carbonara">
+        <ingredients>
+
+            <ingredient>
+                <name>Дрожжевое тесто</name>
+                <number unit="kg">0.5</number>
+            </ingredient>
+
+            <ingredient>
+                <name>Ветчина</name>
+                <number unit="gr">130</number>
+            </ingredient>
+
+            <ingredient>
+                <name>Твёрдый сыр</name>
+                <number unit="gr">120</number>
+            </ingredient>
+
+            <ingredient>
+                <name>Томатная паста</name>
+                <number unit="teaspoon">3</number>
+            </ingredient>
+
+            <ingredient>
+                <name>Сливки</name>
+                <number unit="tablespoon">3</number>
+            </ingredient>
+
+            <ingredient>
+                <name>Яйца</name>
+                <number unit="pc">1</number>
+            </ingredient>
+
+            <ingredient>
+                <name>Специи по вкусу</name>
+                <number unit="teaspoon">1</number>
+            </ingredient>
+        </ingredients>
+
+        <cooking>
+            <step name="Step 1">Берем все необходимые продукты</step>
+            <step name="Step 2">Раскатываем тесто, выкладываем в форму и прокалываем вилочкой. На 5 мин ставим в духовку 180С</step>
+            <step name="Step 3">Готовим соус - томатную пасту смешиваем со специями и небольшим количеством воды.
+                 Можно добавить помидоры, измельченные блендером, тогда воду добавлять не нужно</step>
+            <step name="Step 4">Выкладываем соус на тесто.</step>
+            <step name="Step 5">Ветчину нарезаем полосочками, выкладываем.</step>
+            <step name="Step 6">Сливки выливаем в кастрюлю, ставим на медленный огонь. Отделяем желток от белка, белок взбалтываем.
+                 Добавляем белок к сливкам тоненькой струйкой и одновременно перемешивая. Варим около 2-х минут.</step>
+            <step name="Step 7">Сыр натираем на терке, половиной сыра посыпаем нашу пиццу, затем выкладываем белково-сливочную сметь и 2-ую часть сыра.</step>
+            <step name="Step 8">Ставим в духовку минут на 10, затем вынимаем и в центр выкладываем желток. Ставим в духовку еще минут на 5.</step>
+            <step name="Step 9">Наша пицца готова!</step>
+        </cooking>
+    </view>
+
+
+
+
+</food>

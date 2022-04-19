@@ -1,0 +1,57 @@
+[
+    {
+        "name":"Mozarella",
+        "ingradients": [
+            {"name":"warm water", "unit":"ml", "count":"200"},
+            {"name":"yeast", "unit":"soup spoon", "count":"1"},
+            {"name":"olive oil", "unit":"soup spoon", "count":"3"},
+            {"name":"salt", "unit":"tea spoon", "count":"1"},
+            {"name":"cheese mozarella", "unit":"gr", "count":"400"},
+            {"name":"ham", "unit":"gr", "count":"200"},
+            {"name":"tomato", "unit":"pc", "count":"3"}
+        ],
+        "cooking":{"time":"30", "unit":"min", "degrees":"260"},
+        "image":"https://www.gastronom.ru/binfiles/images/20201212/b9bc7121.jpg"
+    },
+    {
+        "name":"Simple pizza",
+        "ingradients": [
+            {"name":"warm water", "unit":"ml", "count":"125"},
+            {"name":"yeast", "unit":"gr", "count":"5"},
+            {"name":"olive oil", "unit":"soup spoon", "count":"3"},
+            {"name":"salt", "unit":"tea spoon", "count":"0.5"},
+            {"name":"cheese", "unit":"gr", "count":"200"},
+            {"name":"sausages", "unit":"gr", "count":"200"},
+            {"name":"tomato", "unit":"pc", "count":"10"},
+            {"name":"tomato pasta", "unit":"soup spoon", "count":"5"},
+            {"name":"olives", "unit":"gr", "count":"100"},
+            {"name":"basil", "unit":"tea spoon", "count":"1"},
+            {"name":"flour", "unit":"gr", "count":"200"}
+        ],
+        "cooking":{"time":"40", "unit":"min", "degrees":"220"},
+        "image":"https://www.gastronom.ru/binfiles/images/20150218/b596a047.jpg"
+    },
+    {
+        "name":"Cheasar",
+        "ingradients": [
+            {"name":"yeast", "unit":"soup spoon", "count":"0.5"},
+            {"name":"olive oil", "unit":"soup spoon", "count":"4"},
+            {"name":"cheese", "unit":"soup spoon", "count":"2"},
+            {"name":"chicken", "unit":"pc", "count":"1"},
+            {"name":"basil", "unit":"tea spoon", "count":"1"},
+            {"name":"flour", "unit":"gr", "count":"300"},
+            {"name":"anchovy", "unit":"pc", "count":"2"},
+            {"name":"eggs", "unit":"pc", "count":"2"},
+            {"name":"garlic", "unit":"pc", "count":"1"},
+            {"name":"capers", "unit":"tea spoon", "count":"1"},
+            {"name":"mustard", "unit":"tea spoon", "count":"0.5"},
+            {"name":"lemon juice", "unit":"tea spoon", "count":"1"},
+            {"name":"parmezan", "unit":"soup spoon", "count":"1"},
+            {"name":"romano", "unit":"pc", "count":"3"},
+            {"name":"salt", "unit":"tea spoon", "count":"0.5"},
+            {"name":"sugar", "unit":"tea spoon", "count":"0.5"}
+        ],
+        "cooking":{"time":"45", "unit":"min", "degrees":"200"},
+        "image":"https://www.gastronom.ru/binfiles/images/20220124/b403f942.jpg"
+    }
+]
