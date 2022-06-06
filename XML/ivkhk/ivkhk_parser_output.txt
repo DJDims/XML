@@ -1,0 +1,47 @@
+[
+	[
+		{'fieldName': 'IT ja Multimeedia', 
+		'speciality': 
+			[
+				{'specialityName': 'Tarkvaraarendaja', 
+				'city': 
+					[
+						{'cityName': 'Jõhvi', 
+						'group': 
+							[
+								{'groupName': 'JPTV20', 
+								'students': 
+									[
+										{'name': 'Dmitrii', 'surename': 'Kreivald', 'bornYear': '2004'}, 
+										{'name': 'Arseni', 'surename': 'Chistyakov', 'bornYear': '2004'}, 
+										{'name': 'Aleksei', 'surename': 'Karimov', 'bornYear': '2004'}
+									]}, 
+								{'groupName': 'JPTV21', 
+								'students': 
+									[
+										{'name': 'Stefan', 'surename': 'Robalko', 'bornYear': '2003'}, 
+										{'name': 'Roman', 'surename': 'Kukalev', 'bornYear': '2005'}, 
+										{'name': 'Nikita', 'surename': 'Chistokletov', 'bornYear': '2005'}
+									]
+								}
+							]
+						}, 
+						{'cityName': 'Sillamäe', 
+						'group': 
+							[
+								{'groupName': 'SPTV20', 
+								'students': 
+									[
+										{'name': 'Ivan', 'surename': 'Petchenko', 'bornYear': '2004'}, 
+										{'name': 'Dmitrii', 'surename': 'Loginov', 'bornYear': '2004'}, 
+										{'name': 'Aleksei', 'surename': 'Aleksandrov', 'bornYear': '2004'}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+]
