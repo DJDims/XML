@@ -26,6 +26,17 @@ def create_category(db: Session, category: schemas.Category):
     return new_category
 #------------------------------------------------------------------------------------------------------------
 def delete_category_by_id(db: Session, id):
-    db.delete(get_category_by_id(db, id))
-    db.commit()
-    return True
+    try:
+        db.delete(get_category_by_id(db, id))
+        db.commit()
+        return True
+    except:
+        return False
+    
+def delete_book_by_title(db: Session, title):
+    try:
+        db.delete(get_book_by_title(db, title))
+        db.commit()
+        return True
+    except:
+        return False

@@ -48,3 +48,7 @@ def read_books_by_title(book_title: str, db: Session = Depends(get_db)):
 @app.delete("/categories/delete/{category_id}")
 def delete_category_by_id(category_id: str, db: Session = Depends(get_db)):
     return crud.delete_category_by_id(db, category_id)
+
+@app.delete("/books/delete/{book_title}")
+def delete_book_by_title(book_title: str, db: Session = Depends(get_db)):
+    return crud.delete_book_by_title(db, book_title)

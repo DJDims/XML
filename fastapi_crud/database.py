@@ -12,6 +12,6 @@ database = 'library_db' #название БД
 SQLALCHEMY_DATABASE_URL = f"mysql+mysqlconnector://{user}:{password}@{host}:{port}/{database}"  #собрать строку для подключения
 engine = create_engine(SQLALCHEMY_DATABASE_URL) #подключится
 
-SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
+SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine) #настройки сессии подключения
 
 Base = declarative_base()
