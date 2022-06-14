@@ -1,0 +1,15 @@
+<!ELEMENT Movies (Movie+)>
+<!ELEMENT Movie (Title,Genres,Director,Actors,Studio,Year)>
+<!ATTLIST Movie rating NMTOKEN #REQUIRED>
+<!ELEMENT Title (#PCDATA)>
+<!ATTLIST Title runtime NMTOKEN #REQUIRED>
+<!ELEMENT Genres (Genre+)>
+<!ELEMENT Genre (#PCDATA)>
+<!ELEMENT Director (Name)>
+<!ELEMENT Name (First,Last)>
+<!ELEMENT First (#PCDATA)>
+<!ELEMENT Last (#PCDATA)>
+<!ELEMENT Actors (Actor+)>
+<!ELEMENT Actor (#PCDATA)>
+<!ELEMENT Studio (#PCDATA)>
+<!ELEMENT Year (#PCDATA)>

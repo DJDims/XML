@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="Movies">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Movie" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Title">
+                                <xs:complexType>
+                                    <xs:simpleContent>
+                                        <xs:extension base="xs:string">
+                                            <xs:attribute name="runtime" type="xs:integer" use="required" />
+                                        </xs:extension>
+                                    </xs:simpleContent>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="Genres">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="Genre" maxOccurs="unbounded" type="xs:string" />
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="Director">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="Name">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="First" type="xs:string" />
+                                                    <xs:element name="Last" type="xs:string" />
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="Actors">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="Actor" maxOccurs="unbounded" type="xs:string" />
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="Studio" type="xs:string" />
+                            <xs:element name="Year" type="xs:string" />
+                        </xs:sequence>
+                        <xs:attribute name="rating" use="required" />
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

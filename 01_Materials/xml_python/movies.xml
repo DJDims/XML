@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE Movies SYSTEM "movies.dtd"> -->
+<?xml-model href="movies.xsd"?>
+<Movies>
+    <Movie rating="R">
+        <Title runtime="177">The Godfather</Title>
+        <Genres>
+            <Genre>Crime</Genre>
+            <Genre>Drama</Genre>
+        </Genres>
+        <Director>
+            <Name>
+                <First>Francis Ford</First>
+                <Last>Coppola</Last>
+            </Name>
+        </Director>
+        <Actors>
+            <Actor>Marlon Brando</Actor>
+            <Actor>Al Pacino</Actor>
+            <Actor>James Caan</Actor>
+        </Actors>
+        <Studio>Paramount Pictures</Studio>
+        <Year>1972</Year>
+    </Movie>
+    <Movie rating="R">
+        <Title runtime="194">Titanic</Title>
+        <Genres>
+            <Genre>Drama</Genre>
+        </Genres>
+        <Director>
+            <Name>
+                <First>James</First>
+                <Last>Cameron</Last>
+            </Name>
+        </Director>
+        <Actors>
+            <Actor>Leonardo DiCaprio</Actor>
+            <Actor>Kate Winslet</Actor>
+            <Actor>Billy Zane</Actor>
+        </Actors>
+        <Studio>Paramount Pictures</Studio>
+        <Year>1997</Year>
+    </Movie>
+</Movies>

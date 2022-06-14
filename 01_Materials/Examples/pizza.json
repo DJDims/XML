@@ -1,0 +1,12 @@
+[
+    {
+        "name":"Margarita",
+        "ingridients":[
+            {"name":"tomato", "unit":"gr", "count":"200"},
+            {"name":"tomato", "unit":"gr", "count":"200"}
+        ],
+        "steps":[
+            {"id": 1, "description":"................"}
+        ]
+    }
+]
