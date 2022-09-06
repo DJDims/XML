@@ -1,4 +1,4 @@
-<registartion>
+<registration>
     <city name="Narva">
         <speciality name="Oncologist">
             <doctor name="Babeg Kassouni" timeStart="8.00" timeEnd="17.00" day="Monday">
@@ -6,6 +6,10 @@
             <doctor name="Vart Stepanyan" timeStart="9.00" timeEnd="16.30" day="Tuesday">
             </doctor>
             <doctor name="Dzadour Azizian" timeStart="8.20" timeEnd="17.00" day="Wednesday">
+            </doctor>
+            <doctor name="Dzadour Azizian2" timeStart="8.20" timeEnd="17.00" day="Wednesday">
+            </doctor>
+            <doctor name="Dzadour Azizian3" timeStart="8.20" timeEnd="17.00" day="Wednesday">
             </doctor>
         </speciality>
         <speciality name="Cardiologist">
@@ -77,4 +81,4 @@
             </doctor>
         </speciality>
     </city>
-</registartion>
+</registration>
