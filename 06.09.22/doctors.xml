@@ -1,0 +1,80 @@
+<registartion>
+    <city name="Narva">
+        <speciality name="Oncologist">
+            <doctor name="Babeg Kassouni" timeStart="8.00" timeEnd="17.00" day="Monday">
+            </doctor>
+            <doctor name="Vart Stepanyan" timeStart="9.00" timeEnd="16.30" day="Tuesday">
+            </doctor>
+            <doctor name="Dzadour Azizian" timeStart="8.20" timeEnd="17.00" day="Wednesday">
+            </doctor>
+        </speciality>
+        <speciality name="Cardiologist">
+            <doctor name="Ghoungyanos Bizdikian" timeStart="9.00" timeEnd="18.30" day="Thursday">
+            </doctor>
+            <doctor name="Dikran Yeterian" timeStart="8.30" timeEnd="16.00" day="Friday">
+            </doctor>
+            <doctor name="Purad Avetisyan" timeStart="8.00" timeEnd="17.00" day="Monday">
+            </doctor>
+        </speciality>
+        <speciality name="Otorhinolaryngologist">
+            <doctor name="Sasoun Pogosian" timeStart="8.20" timeEnd="17.40" day="Tuesday">
+            </doctor>
+            <doctor name="Puzant Cibrian" timeStart="8.00" timeEnd="16.00" day="Wednesday">
+            </doctor>
+            <doctor name="Asbed Aslanyan" timeStart="8.10" timeEnd="17.10" day="Thursday">
+            </doctor>
+        </speciality>
+    </city>
+    <city name="Sillamae">
+        <speciality name="Oncologist">
+            <doctor name="Paren Petrosian" timeStart="8.00" timeEnd="17.00" day="Friday">
+            </doctor>
+            <doctor name="Arman Musaelian" timeStart="8.20" timeEnd="17.50" day="Monday">
+            </doctor>
+            <doctor name="Apkar Aramian" timeStart="8.00" timeEnd="16.20" day="Tuesday">
+            </doctor>
+        </speciality>
+        <speciality name="Cardiologist">
+            <doctor name="Semag Sarkisian" timeStart="8.40" timeEnd="16.00" day="Wednesday">
+            </doctor>
+            <doctor name="Mnatsagan Belekdanian" timeStart="8.00" timeEnd="17.00" day="Thursday">
+            </doctor>
+            <doctor name="Sussan Mikaelian" timeStart="8.30" timeEnd="17.10" day="Friday">
+            </doctor>
+        </speciality>
+        <speciality name="Otorhinolaryngologist">
+            <doctor name="Juliana Galstyan" timeStart="8.00" timeEnd="17.20" day="Monday">
+            </doctor>
+            <doctor name="Vanig Khederian" timeStart="8.20" timeEnd="17.00" day="Tuesday">
+            </doctor>
+            <doctor name="Tsdrig Babayan" timeStart="8.40" timeEnd="16.00" day="Wednesday">
+            </doctor>
+        </speciality>
+    </city>
+    <city name="Kohtla-jarve">
+        <speciality name="Oncologist">
+            <doctor name="Yeva Bedrosian" timeStart="8.00" timeEnd="16.00" day="Thursday">
+            </doctor>
+            <doctor name="Mukhammad Sharipov" timeStart="10.00" timeEnd="17.10" day="Friday">
+            </doctor>
+            <doctor name="Amir Radzhabov" timeStart="8.20" timeEnd="16.30" day="Monday">
+            </doctor>
+        </speciality>
+        <speciality name="Cardiologist">
+            <doctor name="Nasiba Kurbonova" timeStart="9.00" timeEnd="17.50" day="Tuesday">
+            </doctor>
+            <doctor name="Rustam Odinaeva" timeStart="8.00" timeEnd="16.00" day="Wednesday">
+            </doctor>
+            <doctor name="Firuz Radzhabova" timeStart="8.30" timeEnd="17.00" day="Thursday">
+            </doctor>
+        </speciality>
+        <speciality name="Otorhinolaryngologist">
+            <doctor name="Mardoun Aznavourian" timeStart="9.20" timeEnd="17.00" day="Friday">
+            </doctor>
+            <doctor name="Srabion Arshagunian" timeStart="8.10" timeEnd="16.20" day="Monday">
+            </doctor>
+            <doctor name="Ghazaros Matevosian" timeStart="9.30" timeEnd="17.00" day="Tuesday">
+            </doctor>
+        </speciality>
+    </city>
+</registartion>
