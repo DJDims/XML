@@ -1,0 +1,226 @@
+{
+        "city": [
+            {
+                "name": "Narva",
+                "speciality": [
+                    {
+                        "name": "Oncologist",
+                        "doctor": [
+                            {
+                                "name": "Babeg Kassouni",
+                                "timeStart": "8.00",
+                                "timeEnd": "17.00",
+                                "day": "Monday"
+                            },
+                            {
+                                "name": "Vart Stepanyan",
+                                "timeStart": "9.00",
+                                "timeEnd": "16.30",
+                                "day": "Tuesday"
+                            },
+                            {
+                                "name": "Dzadour Azizian",
+                                "timeStart": "8.20",
+                                "timeEnd": "17.00",
+                                "day": "Wednesday"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cardiologist",
+                        "doctor": [
+                            {
+                                "name": "Ghoungyanos Bizdikian",
+                                "timeStart": "9.00",
+                                "timeEnd": "18.30",
+                                "day": "Thursday"
+                            },
+                            {
+                                "name": "Dikran Yeterian",
+                                "timeStart": "8.30",
+                                "timeEnd": "16.00",
+                                "day": "Friday"
+                            },
+                            {
+                                "name": "Purad Avetisyan",
+                                "timeStart": "8.00",
+                                "timeEnd": "17.00",
+                                "day": "Monday"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Otorhinolaryngologist",
+                        "doctor": [
+                            {
+                                "name": "Sasoun Pogosian",
+                                "timeStart": "8.20",
+                                "timeEnd": "17.40",
+                                "day": "Tuesday"
+                            },
+                            {
+                                "name": "Puzant Cibrian",
+                                "timeStart": "8.00",
+                                "timeEnd": "16.00",
+                                "day": "Wednesday"
+                            },
+                            {
+                                "name": "Asbed Aslanyan",
+                                "timeStart": "8.10",
+                                "timeEnd": "17.10",
+                                "day": "Thursday"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Sillamae",
+                "speciality": [
+                    {
+                        "name": "Oncologist",
+                        "doctor": [
+                            {
+                                "name": "Paren Petrosian",
+                                "timeStart": "8.00",
+                                "timeEnd": "17.00",
+                                "day": "Friday"
+                            },
+                            {
+                                "name": "Arman Musaelian",
+                                "timeStart": "8.20",
+                                "timeEnd": "17.50",
+                                "day": "Monday"
+                            },
+                            {
+                                "name": "Apkar Aramian",
+                                "timeStart": "8.00",
+                                "timeEnd": "16.20",
+                                "day": "Tuesday"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cardiologist",
+                        "doctor": [
+                            {
+                                "name": "Semag Sarkisian",
+                                "timeStart": "8.40",
+                                "timeEnd": "16.00",
+                                "day": "Wednesday"
+                            },
+                            {
+                                "name": "Mnatsagan Belekdanian",
+                                "timeStart": "8.00",
+                                "timeEnd": "17.00",
+                                "day": "Thursday"
+                            },
+                            {
+                                "name": "Sussan Mikaelian",
+                                "timeStart": "8.30",
+                                "timeEnd": "17.10",
+                                "day": "Friday"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Otorhinolaryngologist",
+                        "doctor": [
+                            {
+                                "name": "Juliana Galstyan",
+                                "timeStart": "8.00",
+                                "timeEnd": "17.20",
+                                "day": "Monday"
+                            },
+                            {
+                                "name": "Vanig Khederian",
+                                "timeStart": "8.20",
+                                "timeEnd": "17.00",
+                                "day": "Tuesday"
+                            },
+                            {
+                                "name": "Tsdrig Babayan",
+                                "timeStart": "8.40",
+                                "timeEnd": "16.00",
+                                "day": "Wednesday"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Kohtla-jarve",
+                "speciality": [
+                    {
+                        "name": "Oncologist",
+                        "doctor": [
+                            {
+                                "name": "Yeva Bedrosian",
+                                "timeStart": "8.00",
+                                "timeEnd": "16.00",
+                                "day": "Thursday"
+                            },
+                            {
+                                "name": "Mukhammad Sharipov",
+                                "timeStart": "10.00",
+                                "timeEnd": "17.10",
+                                "day": "Friday"
+                            },
+                            {
+                                "name": "Amir Radzhabov",
+                                "timeStart": "8.20",
+                                "timeEnd": "16.30",
+                                "day": "Monday"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cardiologist",
+                        "doctor": [
+                            {
+                                "name": "Nasiba Kurbonova",
+                                "timeStart": "9.00",
+                                "timeEnd": "17.50",
+                                "day": "Tuesday"
+                            },
+                            {
+                                "name": "Rustam Odinaeva",
+                                "timeStart": "8.00",
+                                "timeEnd": "16.00",
+                                "day": "Wednesday"
+                            },
+                            {
+                                "name": "Firuz Radzhabova",
+                                "timeStart": "8.30",
+                                "timeEnd": "17.00",
+                                "day": "Thursday"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Otorhinolaryngologist",
+                        "doctor": [
+                            {
+                                "name": "Mardoun Aznavourian",
+                                "timeStart": "9.20",
+                                "timeEnd": "17.00",
+                                "day": "Friday"
+                            },
+                            {
+                                "name": "Srabion Arshagunian",
+                                "timeStart": "8.10",
+                                "timeEnd": "16.20",
+                                "day": "Monday"
+                            },
+                            {
+                                "name": "Ghazaros Matevosian",
+                                "timeStart": "9.30",
+                                "timeEnd": "17.00",
+                                "day": "Tuesday"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+}
